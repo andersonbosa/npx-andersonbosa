@@ -1,0 +1,14 @@
+{
+  "name": "andersonbosa",
+  "version": "1.0.0",
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "Anderson Bosa",
+  "license": "ISC",
+  "description": "Simple package used to share my profile in my talks.",
+  "main": "index.js",
+  "bin": {
+    "andersonbosa": "./index.js"
+  }
+}
