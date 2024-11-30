@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 console.log(`
-
 🖐️ Ciao
 
 My name is Anderson, I'm software engineer who loves learning, sharing, hacking, and gamified stuff 📚👾🎮
@@ -15,7 +14,7 @@ My name is Anderson, I'm software engineer who loves learning, sharing, hacking,
 
 🔗 Please take time to look at my links! 
 
-* https://anderson-bosa.vercel.app
+* https://andersonbosa.vercel.app
 * https://github.com/andersonbosa
 * https://linkedin.com/in/andersonbosa
 `)
