@@ -17,5 +17,5 @@ async function fetchAndLogRawFile(url) {
 }
 
 fetchAndLogRawFile(
-  'https://raw.githubusercontent.com/owner/repo/branch/path/to/file.md'
+  'https://raw.githubusercontent.com/andersonbosa/npx-andersonbosa/refs/heads/main/src/HELLO.md'
 )
