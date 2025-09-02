@@ -1,12 +1,12 @@
 {
-  "name": "andersonbosa",
-  "version": "1.0.2",
+  "name": "@andersonbosa/hi",
+  "version": "1.1.0",
+  "author": "Anderson Bosa",
+  "license": "CC0-1.0",
+  "description": "Simple package used to share my profile in my talks.",
   "keywords": [
     "hello-world"
   ],
-  "author": "Anderson Bosa",
-  "license": "ISC",
-  "description": "Simple package used to share my profile in my talks.",
   "main": "index.js",
   "bin": {
     "andersonbosa": "./index.js"
