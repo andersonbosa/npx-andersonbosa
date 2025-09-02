@@ -7,6 +7,7 @@
   "keywords": [
     "hello-world"
   ],
+  "private": false,
   "main": "index.js",
   "bin": {
     "andersonbosa": "./index.js"
